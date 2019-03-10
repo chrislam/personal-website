@@ -8,6 +8,13 @@ export default function() {
       <Head>
         <title>Chris Lam</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="description"
+          content="The personal website of Chris Lam, software developer."
+        />
+
+        <link rel="manifest" href="/static/manifest.json" />
+        <meta name="theme-color" content="#333333" />
       </Head>
 
       <Content />
