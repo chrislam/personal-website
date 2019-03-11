@@ -100,7 +100,7 @@ export default function() {
           flex: 0 1 auto;
           max-width: 1280px;
           width: 100%;
-          margin: 0 auto 1rem 0;
+          margin: 0 0 1rem auto;
         }
 
         h1 {
