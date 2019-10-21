@@ -1,1 +1,1 @@
-# personal-website
+# [lam.co.nz](https://lam.co.nz)
