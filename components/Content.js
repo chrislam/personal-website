@@ -85,7 +85,7 @@ export default function Content() {
             </a>
           </div>
           <div>
-            <a href="https://allpressespresso.com/" rel="noopener noreferrer">
+            <a href="https://gladeye.com/work/allpress-espresso" rel="noopener noreferrer">
               Allpress Espresso
             </a>
           </div>
