@@ -41,6 +41,11 @@ export default function Content() {
         <h4>Work</h4>
         <div>
           <div>
+            <a href="https://asknicely.com" rel="noopener noreferrer">
+              AskNicely
+            </a>
+          </div>
+          <div>
             <a href="https://exitfilms.com" rel="noopener noreferrer">
               Exit Films
             </a>
