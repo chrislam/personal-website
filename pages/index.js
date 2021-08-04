@@ -2,7 +2,7 @@ import Head from "next/head";
 import Content from "../components/Content";
 import styles from "modern-normalize";
 
-export default function() {
+export default function Home() {
   return (
     <>
       <Head>
