@@ -1,1 +1,1 @@
-# [lam.co.nz](https://lam.co.nz)
+# [lam.nz](https://lam.nz)
