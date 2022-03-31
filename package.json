@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/chrislam/personal-website.git",
-  "author": "Chris Lam <chris@lam.co.nz>",
+  "author": "Chris Lam <chris@lam.nz>",
   "license": "MIT",
   "private": true,
   "scripts": {
