@@ -38,8 +38,14 @@ export default function Content() {
             </a>
           </div>
         </div>
+
         <h4>Work</h4>
         <div>
+           <div>
+            <a href="https://fergus.com" rel="noopener noreferrer">
+              Fergus
+            </a>
+           </div>
           <div>
             <a href="https://asknicely.com" rel="noopener noreferrer">
               AskNicely
