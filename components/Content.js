@@ -15,8 +15,11 @@ export default function Content() {
         <h3>Contact</h3>
         <div className="horizontal">
           <div className="horizontal-item">
-            <a href="https://twitter.com/chrislamnz" rel="noopener noreferrer">
-              Twitter
+            <a
+              href="https://mastodon.nz/@chrislam"
+              rel="me noopener noreferrer"
+            >
+              Mastodon
             </a>
           </div>
           <div className="horizontal-item">
@@ -41,11 +44,11 @@ export default function Content() {
 
         <h4>Work</h4>
         <div>
-           <div>
+          <div>
             <a href="https://fergus.com" rel="noopener noreferrer">
               Fergus
             </a>
-           </div>
+          </div>
           <div>
             <a href="https://asknicely.com" rel="noopener noreferrer">
               AskNicely
