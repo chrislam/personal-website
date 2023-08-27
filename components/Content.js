@@ -16,6 +16,14 @@ export default function Content() {
         <div className="horizontal">
           <div className="horizontal-item">
             <a
+              href="https://threads.net/@chrislamnz"
+              rel="me noopener noreferrer"
+            >
+              Threads
+            </a>
+          </div>
+          <div className="horizontal-item">
+            <a
               href="https://mastodon.nz/@chrislam"
               rel="me noopener noreferrer"
             >
@@ -25,13 +33,13 @@ export default function Content() {
           <div className="horizontal-item">
             <a
               href="https://www.linkedin.com/in/chris-lam-a33a5568"
-              rel="noopener noreferrer"
+              rel="me noopener noreferrer"
             >
               LinkedIn
             </a>
           </div>
           <div className="horizontal-item">
-            <a href="https://github.com/chrislam" rel="noopener noreferrer">
+            <a href="https://github.com/chrislam" rel="me noopener noreferrer">
               GitHub
             </a>
           </div>
