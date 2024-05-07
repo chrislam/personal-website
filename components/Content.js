@@ -74,14 +74,6 @@ export default function Content() {
           </div>
           <div>
             <a
-              href="https://www.huffingtonpost.com/interactives/the-good-kind"
-              rel="noopener noreferrer"
-            >
-              The Good Kind
-            </a>
-          </div>
-          <div>
-            <a
               href="https://www.thinkful.com/blog/what-is-data-science/"
               rel="noopener noreferrer"
             >
@@ -99,14 +91,6 @@ export default function Content() {
               rel="noopener noreferrer"
             >
               Millennials Are Screwed
-            </a>
-          </div>
-          <div>
-            <a
-              href="https://gladeye.com/work/allpress-espresso"
-              rel="noopener noreferrer"
-            >
-              Allpress Espresso
             </a>
           </div>
         </div>
